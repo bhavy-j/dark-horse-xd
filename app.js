@@ -3,6 +3,6 @@ window.addEventListener('load', () => {
 
     const msgElement = document.getElementById('dynamic-msg');
     if (msgElement) {
-        msgElement.textContent = 'Hello this is 2nd commit...';
+        msgElement.textContent = 'Hello From js-logic branch!!';
     }
 });
